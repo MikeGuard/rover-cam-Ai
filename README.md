@@ -14,4 +14,4 @@ pip install ultralytics
 ```
 
 
-By. Michele Guardato
+By. Michele Guardato, Tommaso Clini
